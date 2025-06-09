@@ -1,0 +1,6 @@
+Status,Gender,Attr3,Class
+Single,Male,0,High
+Married,Female,0,Low
+Married,Female,1,Medium
+Divorced,Male,0,High
+Single,Female,1,Medium
